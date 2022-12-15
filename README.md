@@ -6,4 +6,5 @@ School project for module: Application Development & Cloud services
 
 ## Lesson takeaways
 - improved C#, XAML skills
+- event-driven programming
 - intro to C# OOP & public API integration
