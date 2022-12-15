@@ -1,4 +1,5 @@
-# UWP Alarm Clock App Project for 'Application Development' module
+# UWP Alarm Clock App Project 
+For school module, Application Development & Cloud services
 
 ## Features
 (to be documented)
